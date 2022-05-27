@@ -1,0 +1,32 @@
+C:\Users\computacion\Documents\WPF_Piano_01\WPF_Piano_01\bin\Debug\WPF_Piano_01.exe.config
+C:\Users\computacion\Documents\WPF_Piano_01\WPF_Piano_01\bin\Debug\WPF_Piano_01.exe
+C:\Users\computacion\Documents\WPF_Piano_01\WPF_Piano_01\bin\Debug\WPF_Piano_01.pdb
+C:\Users\computacion\Documents\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_01.csproj.AssemblyReference.cache
+C:\Users\computacion\Documents\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\computacion\Documents\WPF_Piano_01\WPF_Piano_01\obj\Debug\MainWindow.g.cs
+C:\Users\computacion\Documents\WPF_Piano_01\WPF_Piano_01\obj\Debug\App.g.cs
+C:\Users\computacion\Documents\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_01_MarkupCompile.cache
+C:\Users\computacion\Documents\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_01_MarkupCompile.lref
+C:\Users\computacion\Documents\WPF_Piano_01\WPF_Piano_01\obj\Debug\MainWindow.baml
+C:\Users\computacion\Documents\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_01.g.resources
+C:\Users\computacion\Documents\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_01.Properties.Resources.resources
+C:\Users\computacion\Documents\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_01.csproj.GenerateResource.cache
+C:\Users\computacion\Documents\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_01.csproj.CoreCompileInputs.cache
+C:\Users\computacion\Documents\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_01.exe
+C:\Users\computacion\Documents\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_01.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Tercer Parcial\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_01.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Tercer Parcial\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Tercer Parcial\WPF_Piano_01\WPF_Piano_01\obj\Debug\MainWindow.g.cs
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Tercer Parcial\WPF_Piano_01\WPF_Piano_01\obj\Debug\App.g.cs
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Tercer Parcial\WPF_Piano_01\WPF_Piano_01\obj\Debug\MainWindow.baml
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Tercer Parcial\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_01.csproj.GenerateResource.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Tercer Parcial\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_01.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Tercer Parcial\WPF_Piano_01\WPF_Piano_01\bin\Debug\WPF_Piano_02.exe.config
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Tercer Parcial\WPF_Piano_01\WPF_Piano_01\bin\Debug\WPF_Piano_02.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Tercer Parcial\WPF_Piano_01\WPF_Piano_01\bin\Debug\WPF_Piano_02.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Tercer Parcial\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_02_MarkupCompile.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Tercer Parcial\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_02_MarkupCompile.lref
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Tercer Parcial\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_02.g.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Tercer Parcial\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_02.Properties.Resources.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Tercer Parcial\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_02.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PRACTICAS\Tercer Parcial\WPF_Piano_01\WPF_Piano_01\obj\Debug\WPF_Piano_02.pdb
