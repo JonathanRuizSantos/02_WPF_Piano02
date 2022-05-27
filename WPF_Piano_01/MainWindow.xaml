@@ -1,0 +1,31 @@
+﻿<Window x:Class="WPF_Piano_01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Piano_01"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="Black"/>
+            <GradientStop Color="#FFFF0C0C" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid>
+        <Button x:Name="BTC" Content="" Click="BTC_Click" Margin="22,17,694,217"/>
+        <Button x:Name="BTD" Content="" RenderTransformOrigin="-0.062,0.531" Margin="91,17,633,217" Click="BTD_Click"/>
+        <Button x:Name="BTDb" Content="" Background="#FF080000" Margin="60,17,678,279" Click="BTDb_Click"/>
+        <ListBox x:Name="LB1" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="185,258,185,10" Background="#FFE88814"/>
+        <Button x:Name="BTE" Content="" Click="BTE_Click" Margin="150,17,572,217"/>
+        <Button x:Name="BTF" Content="" RenderTransformOrigin="-0.062,0.531" Margin="207,17,517,217" Click="BTF_Click"/>
+        <Button x:Name="BTEb" Content="" Background="#FF080000" Margin="127,17,609,279" Click="BTEb_Click"/>
+        <Button x:Name="BTG" Content="" Margin="263,17,453,217" Click="BTG_Click"/>
+        <Button x:Name="BTA" Content="" RenderTransformOrigin="-0.062,0.531" Margin="332,17,392,217" Click="BTA_Click"/>
+        <Button x:Name="BTGb" Content="" Background="#FF080000" Margin="245,12,493,284" Click="BTGb_Click"/>
+        <Button x:Name="BTB" Content="" Margin="391,17,331,217" Click="BTB_Click"/>
+        <Button x:Name="BTAb" Content="" Background="#FF080000" Margin="306,12,430,284" Click="BTAb_Click"/>
+        <Button x:Name="BTBb" Content="" Background="#FF080000" Margin="366,12,370,284" Click="BTBb_Click"/>
+
+    </Grid>
+</Window>
